@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #
 
   s.vendored_libraries    = 'ZDeviceHelper/*.a'
-  s.source_files  = "ZDeviceHelper/*.{h,m,mm}}"
+  s.source_files  = "ZDeviceHelper/*.{h,m,mm}"
   # s.exclude_files = "ZDeviceHelper/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
